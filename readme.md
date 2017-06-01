@@ -5,7 +5,7 @@
 <br>Mating pool generated based on this fitness with higher fitness object having more rep in mating pool.
 <br>Child is chosen with mutation chance and added to new population.</p>
 <h3>Preview:</h3>
-<p><a href="https://philaturner.github.io/genetoc-alg-smart-rockets">Preview Example Here</a></p>
+<p><a href="https://philaturner.github.io/genetic-alg-smart-rockets">Preview Example Here</a></p>
 <h3>Things to add:</h3>
 <p>Collision with edge and obsicles cause population to still move / bounce back<br>Tidy up fitness function and normalisation<br>Make obsicles an object so multiples can be added (potential for user creation)<br>Add more user input options (i.e lifespan, fitness values etc)</p>
 <h3>Screenshots:</h3>
